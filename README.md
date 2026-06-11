@@ -1,7 +1,9 @@
 # Global-Corporate-Earnings-Analytics-Engine
 Engineered an end-to-end analytical pipeline to clean, transform, and process unstructured financial records for 10,859 global companies, normalizing unformatted text strings into uniform, floating-point numeric data structures.
+Scrapped Link: https://companiesmarketcap.com/most-profitable-companies/
 
 #PowerBI Dashboard
+Dashboard: https://app.powerbi.com/links/X1m4EQIdOg?ctid=969d451d-17aa-4133-9e0d-e9122e7fc438&pbi_source=linkShare
 <img width="1401" height="858" alt="Screenshot 2026-06-11 at 16 11 02" src="https://github.com/user-attachments/assets/31ce4f51-6f64-4b4c-a445-993573c1b411" />
 
 #Tech Stack
