@@ -1,0 +1,10 @@
+# Data Manipulation and Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Native MySQL Ingestion (Used in Phase 1 and final connection scripts)
+mysql-connector-python>=8.0.0
+
+# SQL Relational Database Toolkit & Direct Drivers (Optional but highly recommended for standard BI pipelines)
+SQLAlchemy>=2.0.0
+PyMySQL>=1.1.0
